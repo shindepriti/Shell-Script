@@ -1,0 +1,12 @@
+#!/bin/bash -x
+echo -a arr1
+read arr1
+echo -a arr2
+read arr2
+sum=0
+len=${ar[0]}
+for(( i=0; ))
+arr3=$(( arr1 + arr2 ))
+echo $arr3
+echo $arr1 
+echo $arr2

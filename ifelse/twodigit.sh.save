@@ -1,0 +1,6 @@
+getRandom=$(($RANDOM%100+10))
+for i in  {1..5}
+do
+	sum+=$getRandom
+	echo $sum;
+done
